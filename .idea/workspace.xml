@@ -1,25 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a8c1530-e8df-4044-a09c-96d6a9613c12" name="Changes" comment="" />
+    <list default="true" id="5a8c1530-e8df-4044-a09c-96d6a9613c12" name="Changes" comment="Add `requirements.txt` with project dependencies">
+      <change beforePath="$PROJECT_DIR$/.idea/Multiple Linear Regression with Z-Score Normalization.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Multiple Linear Regression with Z-Score Normalization.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="14" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "nikidastr3000"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/nikidastr3000/Multiple_Linear_Regression_with_Z-Score_Normalization.git",
+    "accountId": "1bf8c913-2ab2-43ee-bc0a-ca9fe49366df"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000000014484" />
+      <entry key="S10" value="1.0000067814329243" />
+      <entry key="S30" value="1.2965284050731671" />
+      <entry key="S60" value="5.84733967540836" />
+      <entry key="M2" value="21.033753984644417" />
+      <entry key="M5" value="48.26443634302021" />
+      <entry key="M10" value="63.99198083017956" />
+      <entry key="M15" value="70.33029132078657" />
+      <entry key="M30" value="77.31110245377982" />
+      <entry key="H1" value="81.06268590479439" />
+      <entry key="H2" value="83.00755872890676" />
+      <entry key="H4" value="83.99776079342772" />
+      <entry key="D1" value="84.83211799233702" />
+      <entry key="W1" value="84.97599615051874" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.237743505603062E-4" />
+      <entry key="MS500" value="0.16539642998851503" />
+      <entry key="S2" value="0.6377221958392721" />
+      <entry key="S5" value="0.8353194870651711" />
+      <entry key="S10" value="0.9139649183045873" />
+      <entry key="S30" value="1.2668780239819182" />
+      <entry key="S60" value="5.8315161651475735" />
+      <entry key="M2" value="21.024244054867868" />
+      <entry key="M5" value="48.25945659534372" />
+      <entry key="M10" value="63.98914580456033" />
+      <entry key="M15" value="70.32830799580167" />
+      <entry key="M30" value="77.31005924087866" />
+      <entry key="H1" value="81.0621504126342" />
+      <entry key="H2" value="83.00728737913262" />
+      <entry key="H4" value="83.99762420059207" />
+      <entry key="D1" value="84.8320950979032" />
+      <entry key="W1" value="84.9759928767077" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="37hUh9WbckW6In8YLh6G29u2dAi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,12 +107,22 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -41,8 +130,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.142" />
-        <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PY-261.24374.152" />
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
       </set>
     </attachedChunks>
   </component>
@@ -54,7 +143,39 @@
       <option name="presentableId" value="Default" />
       <updated>1767354913330</updated>
       <workItem from="1767354914470" duration="2000" />
+      <workItem from="1781713886113" duration="598000" />
+      <workItem from="1781714517109" duration="884000" />
     </task>
+    <task id="LOCAL-00001" summary="Add `requirements.txt` with project dependencies">
+      <option name="closed" value="true" />
+      <created>1781715355772</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1781715355772</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add `requirements.txt` with project dependencies" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add `requirements.txt` with project dependencies" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Multiple_Linear_Regression_with_Z_Score_Normalization$main.coverage" NAME="main Coverage Results" MODIFIED="1781714969167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
